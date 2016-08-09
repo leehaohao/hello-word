@@ -23,7 +23,7 @@ int main()
 		{
 			printf(" ");
 		}
-        for (d = 0;d<e+(e-1);d++)
+                for (d = 0;d<e+(e-1);d++)
 		{
 			printf("%c", c);
 		}
